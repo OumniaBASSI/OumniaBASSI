@@ -1,16 +1,62 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/code.png" alt="Code Icon"/>
+</p>
 
-<!--
-**OumniaBASSI/OumniaBASSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello World! I'm Oumnia</h1>
+<h3 align="center">Crafting Dreams with Code 💫</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OumniaBASSI&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="OumniaBASSI" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me:
+Hey there! I'm Oumnia, a coding sorceress passionate about turning lines of code into extraordinary experiences. I dwell in the realms of C, Python, and Web Development, weaving digital wonders one keystroke at a time. Fun fact? I speak binary fluently! 😉
+
+## ✨ What I Do:
+- **Crafting Code:** Building elegant solutions that defy gravity and expectations.
+- **Debugging Artistry:** Turning bugs into stepping stones for innovation.
+- **Creative Alchemy:** Transforming ideas into visually stunning and functional creations.
+- **Continuous Learning:** Embracing the ever-changing tech universe with wide-eyed wonder.
+
+## 🌟 Let's Connect:
+I'm not just a coder; I'm a community builder. I believe in the power of collaboration and the magic that happens when passionate minds unite. So, don't hesitate to reach out, whether you have a coding question, an exciting project idea, or just want to geek out about the latest tech trends.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oumnia-basbassi-b9907725a/)
+- 🐦 Tweet along with me on [Twitter](https://twitter.com/B1Oumnia)
+
+# 💻 Tech Stack:
+
+## Languages:
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Tools:
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- ![VirtualBox](https://img.shields.io/badge/VirtualBox-%230081A7.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+# 🚀 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OumniaBASSI&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OumniaBASSI&theme=dracula&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OumniaBASSI&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OumniaBASSI&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=OumniaBASSI&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme:
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+
+Feel free to explore my repositories, share your thoughts, and let's create something extraordinary together.
+
+<h1 align="center" style="color:#FC7300;">🔥 Proudly crafted with ❤️ and endless lines of code by Oumnia 🔥</h>
