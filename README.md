@@ -1,4 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://OumniaBASSI.github.io/Portfolio/)
+![github-header-image](https://github.com/OumniaBASSI/OumniaBASSI/assets/96882292/287b0e12-4b2a-469e-bb5d-b33a7f84cff7)
+
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/code.png" alt="Code Icon"/>
 </p>
