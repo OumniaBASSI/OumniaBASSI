@@ -9,7 +9,7 @@
 <h1 align="center">Hello World! I'm Oumnia</h1>
 <p align="center">
   <a href="https://github.com/ezitounioussama/readme-typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Full stack%20web%20developer;ALX%20Software%20Engineering%20student;Crafting%20Dreams%20with%20code&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=500&size=22"/></a>
+    <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Full stack%20web%20developer;%20Software%20Engineering%20student;Crafting%20Dreams%20with%20code&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=500&size=22"/></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OumniaBASSI&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="OumniaBASSI" />
