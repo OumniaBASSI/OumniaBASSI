@@ -59,10 +59,6 @@ I'm not just a coder; I'm a community builder. I believe in the power of collabo
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=OumniaBASSI&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme:
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
-
 Feel free to explore my repositories, share your thoughts, and let's create something extraordinary together.
 
 <h1 align="center" style="color:#FC7300;">🔥Proudly crafted with❤️and endless lines of code by Oumnia🔥</h>
