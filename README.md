@@ -13,8 +13,11 @@
 </p>
 
 ## 🚀 About Me:
-Hey there! I'm Oumnia, a coding sorceress passionate about turning lines of code into extraordinary experiences. I dwell in the realms of C, Python, and Web Development, weaving digital wonders one keystroke at a time. Fun fact? I speak binary fluently! 😉
+Hey there! I'm Oumnia, a coding sorceress who loves turning coffee and code into digital magic.
+I craft web experiences using React, Node.js, Express, and MongoDB, occasionally summoning some Laravel and PHP spells too.
 
+When I’m not building full-stack applications, I’m probably exploring new frameworks or debugging with a smile.
+Fun fact? I speak fluent binary and sarcasm. 😉
 ## ✨ What I Do:
 - **Crafting Code:** Building elegant solutions that defy gravity and expectations.
 - **Debugging Artistry:** Turning bugs into stepping stones for innovation.
